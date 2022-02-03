@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <symbol id="sym-0">
+   <path id="sym-0-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m64 20c-24.158 0-44 19.842-44 44h24c0-11.188 8.8122-20 20-20z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-1">
+   <path id="sym-1-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-64)" d="m64 20v24c11.188 0 20 8.8122 20 20h24c0-24.158-19.842-44-44-44z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-2">
+   <path id="sym-2-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-128)" d="m160 6a26 26 0 0 0-22.996 14h-9.0039v24h9.0039a26 26 0 0 0 22.996 14 26 26 0 0 0 22.996-14h9.0039v-24h-8.9414a26 26 0 0 0-23.059-14z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-3">
+   <path id="sym-3-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m58 32a26 26 0 0 0-14-22.996v-9.0039h-24v9.0039a26 26 0 0 0-14 22.996 26 26 0 0 0 14 22.996v9.0039h24v-8.9414a26 26 0 0 0 14-23.059z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-4">
+   <path id="sym-4-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(0,-64)" d="m20 64c0 24.158 19.842 44 44 44v-24c-11.188 0-20-8.8122-20-20z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-5">
+   <path id="sym-5-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-64,-64)" d="m84 64c0 11.188-8.8122 20-20 20v24c24.158 0 44-19.842 44-44z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-6">
+   <path id="sym-6-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-128,-64)" d="m160 70a26 26 0 0 0-22.996 14h-9.0039v24h9.0039a26 26 0 0 0 22.996 14 26 26 0 0 0 26-26 26 26 0 0 0-26-26z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-7">
+   <path id="sym-7-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m32 58a26 26 0 0 0 22.996-14h9.0039v-24h-9.0039a26 26 0 0 0-22.996-14 26 26 0 0 0-26 26 26 26 0 0 0 26 26z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-8">
+   <path id="sym-8-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(0,-128)" d="m20 128v20h-20v24h20v20h24v-20h20v-24h-20v-20z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-9">
+   <path id="sym-9-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-64,-128)" d="m64 148v24h20v20h24v-44h-24z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-10">
+   <path id="sym-10-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m64 20v24h-20v20h-24v-44h24z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-11">
+   <path id="sym-11-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m0 20h64v24h-64z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-12">
+   <path id="sym-12-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m64 44v-24h-20v-20h-24v44h24z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-13">
+   <path id="sym-13-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m0 44v-24h20v-20h24v44h-24z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-14">
+   <path id="sym-14-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path d="m44 0v64h-24v-64z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+  <symbol id="sym-15">
+   <path id="sym-15-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path transform="translate(-192,-192)" d="m212 192v9.0039a26 26 0 0 0-10.996 10.996h-9.0039v24h9.0039a26 26 0 0 0 10.996 10.996v9.0039h24v-9.0039a26 26 0 0 0 10.996-10.996h9.0039v-24h-8.9414a26 26 0 0 0-11.059-11.059v-8.9414z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  </symbol>
+ </defs>
+ <g>
+  <use xlink:href="#sym-0"/>
+  <use transform="translate(64)" xlink:href="#sym-1"/>
+  <use transform="translate(128)" xlink:href="#sym-2"/>
+  <use transform="translate(192)" xlink:href="#sym-3"/>
+  <use transform="translate(0,64)" xlink:href="#sym-4"/>
+  <use transform="translate(64,64)" xlink:href="#sym-5"/>
+  <use transform="translate(128,64)" xlink:href="#sym-6"/>
+  <use transform="translate(192,64)" xlink:href="#sym-7"/>
+  <use transform="translate(0,128)" xlink:href="#sym-8"/>
+  <use transform="translate(64,128)" xlink:href="#sym-9"/>
+  <use transform="translate(128,128)" xlink:href="#sym-10"/>
+  <use transform="translate(192,128)" xlink:href="#sym-11"/>
+  <use transform="translate(0,192)" xlink:href="#sym-12"/>
+  <use transform="translate(64,192)" xlink:href="#sym-13"/>
+  <use transform="translate(128,192)" xlink:href="#sym-14"/>
+  <use transform="translate(192,192)" xlink:href="#sym-15"/>
+ </g>
+</svg>

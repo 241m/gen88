@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <symbol id="sym-0">
+   <path id="sym-0-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-0-shape" d="m64 32a32 32 0 0 1-32 32 32 32 0 0 1-32-32 32 32 0 0 1 32-32 32 32 0 0 1 32 32z" stroke-width="0"/>
+  </symbol>
+  <symbol id="sym-1">
+   <path id="sym-1-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-1-shape" transform="translate(-64)" d="m96 0a32 32 0 0 0-32 32 32 32 0 0 0 32 32 32 32 0 0 0 32-32v-32z" stroke-width="0"/>
+  </symbol>
+  <symbol id="sym-2">
+   <path id="sym-2-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-2-shape" d="m64 32a32 32 0 0 0-32-32 32 32 0 0 0-32 32 32 32 0 0 0 32 32h32z" stroke-width="0"/>
+  </symbol>
+  <symbol id="sym-3">
+   <path id="sym-3-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-3-shape" d="m32 64a32 32 0 0 0 32-32 32 32 0 0 0-32-32 32 32 0 0 0-32 32v32z" stroke-width="0"/>
+  </symbol>
+  <symbol id="sym-4">
+   <path id="sym-4-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-4-shape" d="m0 32a32 32 0 0 0 32 32 32 32 0 0 0 32-32 32 32 0 0 0-32-32h-32z" stroke-width="0"/>
+  </symbol>
+  <symbol id="sym-5">
+   <path id="sym-5-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-5-shape" d="m0 0h64v64h-64z"/>
+  </symbol>
+  <symbol id="sym-6">
+   <path id="sym-6-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-6-shape" d="m0 0h64l-64 64z"/>
+  </symbol>
+  <symbol id="sym-7">
+   <path id="sym-7-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-7-shape" d="m64 0v64l-64-64z"/>
+  </symbol>
+  <symbol id="sym-8">
+   <path id="sym-8-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-8-shape" d="m64 64h-64l64-64z"/>
+  </symbol>
+  <symbol id="sym-9">
+   <path id="sym-9-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-9-shape" d="m0 64v-64l64 64z"/>
+  </symbol>
+  <symbol id="sym-10">
+   <path id="sym-10-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-10-shape" d="m0 0h64v64l-32-32-32 32z"/>
+  </symbol>
+  <symbol id="sym-11">
+   <path id="sym-11-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-11-shape" d="m64 0v64h-64l32-32-32-32z"/>
+  </symbol>
+  <symbol id="sym-12">
+   <path id="sym-12-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-12-shape" d="m64 64h-64v-64l32 32 32-32z"/>
+  </symbol>
+  <symbol id="sym-13">
+   <path id="sym-13-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-13-shape" d="m0 64v-64h64l-32 32 32 32z"/>
+  </symbol>
+  <symbol id="sym-14">
+   <path id="sym-14-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-14-shape" transform="translate(-128,-192)" d="m160 192-32 32v32h32l32-32v-32z"/>
+  </symbol>
+  <symbol id="sym-15">
+   <path id="sym-15-bbox" d="m0 0h64v64h-64z" fill="none"/>
+   <path id="sym-15-shape" d="m64 32-32-32h-32v32l32 32h32z"/>
+  </symbol>
+ </defs>
+ <use xlink:href="#sym-0"/>
+ <use transform="translate(64)" xlink:href="#sym-1"/>
+ <use transform="translate(128)" xlink:href="#sym-2"/>
+ <use transform="translate(192)" xlink:href="#sym-3"/>
+ <use transform="translate(0,64)" xlink:href="#sym-4"/>
+ <use transform="translate(64,64)" xlink:href="#sym-5"/>
+ <use transform="translate(128,64)" xlink:href="#sym-6"/>
+ <use transform="translate(192,64)" xlink:href="#sym-7"/>
+ <use transform="translate(0,128)" xlink:href="#sym-8"/>
+ <use transform="translate(64,128)" xlink:href="#sym-9"/>
+ <use transform="translate(128,128)" xlink:href="#sym-10"/>
+ <use transform="translate(192,128)" xlink:href="#sym-11"/>
+ <use transform="translate(0,192)" xlink:href="#sym-12"/>
+ <use transform="translate(64,192)" xlink:href="#sym-13"/>
+ <use transform="translate(128,192)" xlink:href="#sym-14"/>
+ <use transform="translate(192,192)" xlink:href="#sym-15"/>
+</svg>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg6439"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="src.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6441"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="512px"
+     inkscape:zoom="3.0976562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="sym-0"
+     borderlayer="true" />
+  <defs
+     id="defs6436" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="sym-0">
+      <path
+         id="sym-0-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         id="path12114"
+         sodipodi:type="arc"
+         sodipodi:cx="64"
+         sodipodi:cy="64"
+         sodipodi:rx="64"
+         sodipodi:ry="64"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="M 0,64 A 64,64 0 0 1 64,0 v 64 z" />
+    </g>
+    <g
+       id="sym-1"
+       transform="translate(64)">
+      <path
+         id="sym-1-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         id="path12196"
+         sodipodi:type="arc"
+         sodipodi:cx="64"
+         sodipodi:cy="0"
+         sodipodi:rx="64"
+         sodipodi:ry="64"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="M 0,0 A 64,64 0 0 1 64,-64 V 0 Z"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="sym-2"
+       transform="translate(128)">
+      <path
+         id="sym-2-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         id="path12199"
+         sodipodi:type="arc"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="64"
+         sodipodi:ry="64"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="M -64,0 A 64,64 0 0 1 0,-64 V 0 Z"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="sym-3"
+       transform="translate(192)">
+      <path
+         id="sym-3-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         id="path12202"
+         sodipodi:type="arc"
+         sodipodi:cx="0"
+         sodipodi:cy="64"
+         sodipodi:rx="64"
+         sodipodi:ry="64"
+         sodipodi:start="3.1415927"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="M -64,64 A 64,64 0 0 1 0,0 v 64 z"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="sym-4"
+       transform="translate(0,64)">
+      <path
+         id="sym-4-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path12544"
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         d="M 64 64 A 64 64 0 0 0 0 128 L 22 128 A 42 42 0 0 1 34.300781 98.300781 A 42 42 0 0 1 64 86 L 64 64 z "
+         transform="translate(0,-64)" />
+    </g>
+    <g
+       id="sym-5"
+       transform="translate(64,64)">
+      <path
+         id="sym-5-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path12874"
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         d="M 64,64 A 64,64 0 0 0 0,0 V 22 A 42,42 0 0 1 29.699219,34.300781 42,42 0 0 1 42,64 Z" />
+    </g>
+    <g
+       id="sym-6"
+       transform="translate(128,64)">
+      <path
+         id="sym-6-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path12877"
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         d="M 0,64 A 64,64 0 0 0 64,0 H 42 A 42,42 0 0 1 29.699219,29.699219 42,42 0 0 1 0,42 Z" />
+    </g>
+    <g
+       id="sym-7"
+       transform="translate(192,64)">
+      <path
+         id="sym-7-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path12880"
+         style="stroke-width:0;-inkscape-stroke:none;stop-color:#000000;stroke:none"
+         d="M 0,0 A 64,64 0 0 0 64,64 V 42 A 42,42 0 0 1 34.300781,29.699219 42,42 0 0 1 22,0 Z" />
+    </g>
+    <g
+       id="sym-8"
+       transform="translate(0,128)">
+      <path
+         id="sym-8-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path12973"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 64,32 A 32,32 0 0 1 32,64 32,32 0 0 1 0,32 32,32 0 0 1 32,0 32,32 0 0 1 64,32 Z" />
+    </g>
+    <g
+       id="sym-9"
+       transform="translate(64,128)">
+      <path
+         id="sym-9-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path13141"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 96 128 A 32 32 0 0 0 64 160 A 32 32 0 0 0 96 192 A 32 32 0 0 0 128 160 L 128 128 L 96 128 z "
+         transform="translate(-64,-128)" />
+    </g>
+    <g
+       id="sym-10"
+       transform="translate(128,128)">
+      <path
+         id="sym-10-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path13268"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 64,32 A 32,32 0 0 0 32,0 32,32 0 0 0 0,32 32,32 0 0 0 32,64 h 32 z" />
+    </g>
+    <g
+       id="sym-11"
+       transform="translate(192,128)">
+      <path
+         id="sym-11-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path13271"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 32,64 A 32,32 0 0 0 64,32 32,32 0 0 0 32,0 32,32 0 0 0 0,32 v 32 z" />
+    </g>
+    <g
+       id="sym-12"
+       transform="translate(0,192)">
+      <path
+         id="sym-12-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="path13274"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 0,32 A 32,32 0 0 0 32,64 32,32 0 0 0 64,32 32,32 0 0 0 32,0 H 0 Z" />
+    </g>
+    <g
+       id="sym-13"
+       transform="translate(64,192)">
+      <path
+         id="sym-13-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         id="rect13348"
+         style="stroke-width:11;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+    </g>
+    <g
+       id="sym-14"
+       transform="translate(128,192)">
+      <path
+         id="sym-14-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke:none;stroke-width:11;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="path13521"
+         sodipodi:type="arc"
+         sodipodi:cx="32"
+         sodipodi:cy="32"
+         sodipodi:rx="32"
+         sodipodi:ry="32"
+         sodipodi:start="1.5707963"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="M 32,64 A 32,32 0 0 1 4.2871873,48 32,32 0 0 1 4.2871871,16 32,32 0 0 1 32,0 v 32 z" />
+    </g>
+    <g
+       id="sym-15"
+       transform="translate(192,192)">
+      <path
+         id="sym-15-bbox"
+         style="fill:none;stroke-width:0;stroke:none"
+         d="M 0,0 H 64 V 64 H 0 Z" />
+      <path
+         style="stroke:none;stroke-width:11;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="path13724"
+         sodipodi:type="arc"
+         sodipodi:cx="-32"
+         sodipodi:cy="32"
+         sodipodi:rx="32"
+         sodipodi:ry="32"
+         sodipodi:start="1.5707963"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="slice"
+         d="m -32,64 a 32,32 0 0 1 -27.712813,-16 32,32 0 0 1 0,-32 A 32,32 0 0 1 -32,0 v 32 z"
+         transform="scale(-1,1)" />
+    </g>
+  </g>
+</svg>
